@@ -6,11 +6,21 @@
 
 Here's a little about me: 
  - 🎓 I'm a M.S. Applied Health Informatics student at Stony Brook University. 
- - 🔭 I’m currently learning: Python, SQL, Azure
+ - 🔭 I’m currently learning: Github, Python, SQL, Azure
  - 🤔 I'm interested in: database management and data analysis/data science
 
+<div align='center'>
+
+  
+# _**✨Goals I'm working towards✨**_
+- [ ] To become comfortable in: Python, GitHub, SQL, R 
+- [ ] Graduate from Stony Brook University with my Masters in Applied Health Informatics 
 
 
+<!---
+peisbelb/peisbelb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 
 
 ---
