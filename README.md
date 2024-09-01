@@ -9,3 +9,13 @@ Here's a little about me:
  - 🔭 I’m currently learning: Python, SQL, Azure
  - 🤔 I'm interested in: database management and data analysis/data science
 
+
+
+
+
+---
+<div align='center'>
+  
+![footer](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=See%20you%20soon!&animation=fadeIn&section=footer)
+
+</div>
