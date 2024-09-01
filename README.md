@@ -2,14 +2,25 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&height=290&color=gradient&text=Peisbel%20Baret&animation=fadeIn)
 
-## Hi there, I'm Peisbel! 👋
+## Hi there, I'm Peisbel! 🙈
 
-Here's a little about me: 
+
+# _**Here's a little about me:**_
  - 🎓 I'm a M.S. Applied Health Informatics student at Stony Brook University. 
  - 🔭 I’m currently learning: Github, Python, SQL, Azure
  - 🤔 I'm interested in: database management and data analysis/data science
+ - 🇩🇴 I'm a first-generation Dominican-American college graduate.
+ - 👩‍💻 For my Bachelor's of Science, I majored in Health Sciences with a concentration in Health Informatics at Stony Brook University
+ - 💊 I'm a full-time Certified Senior Pharmacy Technician licensed in NY as a Registered Pharmacy Technician.
+
+
+
+
+
 
 <div align='center'>
+
+
 
   
 # _**✨Goals I'm working towards✨**_
